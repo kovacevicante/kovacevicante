@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ante Kovačević
 - 👀 I’m interested in technology, football, video games, movies, tv shows...
 - 🌱 I’m currently learning QA
-- 💞️ I’m working on a Wordpress Productive Web projekt
+- 💞️ I’m working on a Wordpress Productive Web project
 - 📫 You can reach me on Slack!
 
 <!---
