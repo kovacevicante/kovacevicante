@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ante Kovačević
 - 👀 I’m interested in technology, football, video games, movies, tv shows...
 - 🌱 I’m currently learning Selenium WebDriver for test automation
-- 💞️ I’m working on a Wordpress Productive Web project
+- 💞️ I’m currently working on one mobile app and two web app projects
 - 📫 You can reach me on Slack!
 
 <!---
